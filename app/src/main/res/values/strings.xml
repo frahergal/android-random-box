@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random Box</string>
+    <string name="rae_daily_world">Palabra del día de la RAE</string>
+    <string name="rae_show_definition">Ver la definición</string>
+</resources>
